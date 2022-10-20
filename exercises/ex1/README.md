@@ -35,5 +35,5 @@ In this exercise, we will learn how to define a document of format "TXT" which w
 
 You have now created an extended report definition which would generate a text file that would contain the VAT line items delimited by ";" 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Creating a custom report category](../ex2/README.md)
 

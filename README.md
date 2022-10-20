@@ -27,9 +27,8 @@ In these exercises, we will learn how to fulfill statutory reporting requirement
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Creating an extension of generic report definition](exercises/ex1/)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 2 - Creating a custom report category](exercises/ex2/)
+
 
 ## How to obtain support
 

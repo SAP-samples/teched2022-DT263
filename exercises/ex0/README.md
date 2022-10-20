@@ -1,4 +1,4 @@
-# Level 1 Getting Started
+# Getting Started
 
 To access the apps “Define Statutory Reports” and “Run Statutory Reports” respectively, we would need to assign the following roles to our respective users: 
  
@@ -20,4 +20,4 @@ Perform the following steps to assign the aforementioned roles to your user:
 ## Summary
 
 Now that you have assigned the requisite business roles to your user 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Exercise 1 - Creating an extension of generic report definition](../ex1/README.md)

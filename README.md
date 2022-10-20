@@ -20,10 +20,10 @@ The participants of this hand-on should have sufficient knowledge on the followi
 
 In these exercises, we will learn how to fulfill statutory reporting requirements for custom local versions by easily extending the standard generic reuse objects provided by SAP Document and Reporting Compliance - Statutory Reporting   We have the following requirements:  
 
-- We have to create a VAT statutory report for the country Latvia which is a custom local version
-- The legal authorities have mandated the reporting of VAT line items in the statutory report
-- These VAT line items have to be reported in a file with the format TXT
-- Each VAT line item must be delimited by ';'
+1. We have to create a VAT statutory report for the country Latvia which is a custom local version
+2. The legal authorities have mandated the reporting of VAT line items in the statutory report
+3. These VAT line items have to be reported in a file with the format TXT
+4. Each VAT line item must be delimited by ';'
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)

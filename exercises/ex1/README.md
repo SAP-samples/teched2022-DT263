@@ -61,18 +61,47 @@ In this exercise, we will learn how to define a document of format "TXT" which w
 
 ## 1.3 Creating a file/document of format 'TXT' which would contain the VAT line items 
 
-1. Go to Step 4 - Document Definition and click on "Add" and select "Add with schema/query" 
+1. Go to Step 4 - Document Definition and click on "Add" and select "Add with schema/query"
+
+<img width="1433" alt="Screenshot 2022-10-27 at 9 35 58 PM" src="https://user-images.githubusercontent.com/115979588/198352233-d792a460-d35c-4a9e-935b-fd0547009100.png">
+
+
 2. Under "Document Id", provide a meaningful document id 
+
+
 3. Select "Document Type" as "TXT" and continue 
+
+<img width="1431" alt="Screenshot 2022-10-27 at 9 36 19 PM" src="https://user-images.githubusercontent.com/115979588/198352394-4889f420-74d4-4f4f-964e-203631ccc65b.png">
+
+
 4. Under "General Properties", provide a meaningful document name 
 5. Check the radio button "Create using query" and select the query id created in the previous step 
 6. In the "New Schema" pop-up, click on "Select Columns" and in the next pop-up select all the columns and click on "Continue" 
+
+<img width="1433" alt="Screenshot 2022-10-27 at 9 36 59 PM" src="https://user-images.githubusercontent.com/115979588/198352578-cda58223-d17b-4577-8b0e-9a1ff795dec9.png">
+
+
+
+<img width="1435" alt="Screenshot 2022-10-27 at 9 37 14 PM" src="https://user-images.githubusercontent.com/115979588/198352924-a51e33c0-7ef3-4cfc-b04e-3d8521b0b21e.png">
+
+
+<img width="1433" alt="Screenshot 2022-10-27 at 9 37 47 PM" src="https://user-images.githubusercontent.com/115979588/198353002-4ce08247-89f1-4d1f-8b83-3f470f61d5d4.png">
+
+
 7. Click on "Activate" 
 
 ## 1.4 Defining the delimiter ";" 
 
 1. Under "General Properties", in the "Delimiter" field, maintain ";" 
+
+<img width="1428" alt="Screenshot 2022-10-27 at 9 38 10 PM" src="https://user-images.githubusercontent.com/115979588/198353125-1ab7ce4b-af84-462e-899d-12a7c2dff4fa.png">
+
+
 2. Click on "Activate" 
+
+<img width="1436" alt="Screenshot 2022-10-27 at 9 38 30 PM" src="https://user-images.githubusercontent.com/115979588/198353273-2af711b5-4b56-41de-a84c-15834ad31ea8.png">
+
+
 
 ## Summary
 

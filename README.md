@@ -28,6 +28,7 @@ In these exercises, we will learn how to fulfill statutory reporting requirement
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Creating an extension of generic report definition](exercises/ex1/)
 - [Exercise 2 - Creating a custom report category](exercises/ex2/)
+- [Exercise 3 - Using "Run Statutory Reports" app to generate a report](exercises/ex3/)
 
 
 ## How to obtain support

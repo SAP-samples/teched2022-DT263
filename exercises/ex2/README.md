@@ -36,3 +36,5 @@ After completing these steps you will have created...
 ## Summary
 
 You have now created a custom report category which contains the extended report definition created in the previous exercise and which can be configured in the Reporting Entity configuration and then used in the Run Statutory Reports app 
+
+Continue to - [Exercise 3 - Using "Run Statutory Reports" app to generate a report](../ex3/README.md)

@@ -1,4 +1,4 @@
-# DT 263 - Experience SAP S/4HANA Localization as a Self-Service 
+# DT263 - Experience SAP S/4HANA Localization as a Self-Service 
 
 ## Description
 

@@ -1,5 +1,8 @@
 # Getting Started
 
+To access the training system, please go to the URL https://my401666.s4hana.cloud.sap/ui#Shell-home
+Use the user name and password provided by the hands-on conductor to login to the system
+
 To access the apps “Define Statutory Reports” and “Run Statutory Reports” respectively, we would need to assign the following roles to our respective users: 
  
 1. SAP_BR_ADMINISTRATOR 

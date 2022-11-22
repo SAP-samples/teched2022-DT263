@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DT263)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DT263)
+
 # DT263 - Experience SAP S/4HANA Localization as a Self-Service 
 
 ## Description
